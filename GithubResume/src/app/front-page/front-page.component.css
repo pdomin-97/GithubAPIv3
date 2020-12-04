@@ -1,0 +1,27 @@
+#frontpage-card {
+    margin: auto;
+    margin-top: 20%;
+    height: 300px;
+}
+
+input#inputEmail {
+    margin-right: 5px;
+}
+
+
+button.btn.btn-primary.pull-right {
+    background-color: #FF525E;
+}
+
+.card.w-75 {
+    background-color: #F5F5F5;
+}
+
+form.form-signin.clearfix.ng-untouched.ng-pristine.ng-valid {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card-body {
+    margin-top: 2%;
+}
